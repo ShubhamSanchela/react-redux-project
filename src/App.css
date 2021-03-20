@@ -1,7 +1,10 @@
 .App {
   text-align: center;
 }
-
+.error{
+  font-size: 15px;
+  color: red;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
