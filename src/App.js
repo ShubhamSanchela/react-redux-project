@@ -8,11 +8,11 @@ import Login from "./components/Login";
 import Logout from "./components/Logout";
 import { useState } from "react";
 import LoginApp from "./components/LoginApp";
-import Cookies from 'universal-cookie';
+import Cookies from "universal-cookie";
 import FakeApi from "./components/FakeApi";
- 
+
 // const cookies = new Cookies();
- 
+
 // cookies.set('myCat', 'Pacman', { path: '/' });
 // console.log(cookies.get('myCat'));
 
