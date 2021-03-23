@@ -21,6 +21,7 @@ function App() {
     <Provider store={store}>
       <Router>
         <div className="App">
+          hello
           <FakeApi />
           {/* <pre>
             <h2>Setting Cookie in ReactJS</h2>
